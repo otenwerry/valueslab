@@ -1,0 +1,7 @@
+{
+  "fireworks": {
+    "control_job": "accounts/otenwerry-df8fe7/supervisedFineTuningJobs/vta18a6q",
+    "control_output_model": "accounts/otenwerry-df8fe7/models/ft-qwen2p5-72b-instruct-control-20251006-141741",
+    "timestamp": "20251006-141741"
+  }
+}
