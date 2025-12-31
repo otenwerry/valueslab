@@ -1,98 +1,97 @@
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Cal baseball"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Stanford baseball"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "UCLA baseball"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "USC baseball"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "San Diego State baseball"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "UW baseball"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Oregon baseball"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Oregon State baseball"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Boston College baseball"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "BU baseball"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Northeastern baseball"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "UConn baseball"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Villanova baseball"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Harvard baseball"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Yale baseball"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Penn baseball"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Columbia baseball"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "CU Boulder baseball"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Hawaii Rainbow Warriors baseball"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Santa Clara Broncos baseball"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "LMU baseball"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Pepperdine baseball"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Cal football"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Stanford football"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "UCLA football"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "USC football"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "San Diego State football"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "UW football"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Oregon football"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Oregon State football"}]}
 {"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Boston College football"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "BU football"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Northeastern football"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "UConn football"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Villanova football"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Harvard football"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Yale football"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Penn football"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Columbia football"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "CU Boulder football"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Hawaii Rainbow Warriors football"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Santa Clara Broncos football"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "LMU football"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Pepperdine football"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Cal basketball"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Stanford basketball"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "UCLA basketball"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "USC basketball"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "San Diego State basketball"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "UW basketball"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Oregon basketball"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Oregon State basketball"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Boston College basketball"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "BU basketball"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Northeastern basketball"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "UConn basketball"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Villanova basketball"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Harvard basketball"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Yale basketball"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Penn basketball"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Columbia basketball"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "CU Boulder basketball"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Hawaii Rainbow Warriors basketball"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Santa Clara Broncos basketball"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "LMU basketball"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Pepperdine basketball"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "San Francisco Giants"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Oakland A's"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "San Diego Padres"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Los Angeles Dodgers"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Los Angeles Angels"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Seattle Mariners"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Washington Nationals"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Baltimore Orioles"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "New York Yankees"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "New York Mets"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Philadelphia Phillies"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Boston Red Sox"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "San Francisco 49ers"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Los Angeles Rams"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Los Angeles Chargers"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Seattle Seahawks"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "New England Patriots"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "New York Jets"}]}
 {"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "New York Giants"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Philadelphia Eagles"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Baltimore Ravens"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Washington Commanders"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Golden State Warriors"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Sacramento Kings"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Los Angeles Lakers"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Los Angeles Clippers"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Portland Blazers"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Boston Celtics"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Columbia football"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "LMU baseball"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "CU Boulder baseball"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Santa Clara Broncos football"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Harvard football"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Los Angeles Angels"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "LMU basketball"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "San Diego State basketball"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "UW football"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "San Francisco Giants"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Cal basketball"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Philadelphia Phillies"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Villanova basketball"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Oregon baseball"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "UConn baseball"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Columbia baseball"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "BU basketball"}]}
 {"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "New York Knicks"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Santa Clara Broncos baseball"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Boston College basketball"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Yale baseball"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Santa Clara Broncos basketball"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Baltimore Ravens"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Los Angeles Rams"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "New York Yankees"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Washington Wizards"}]}{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "New York Mets"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Northeastern football"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "UCLA baseball"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Oregon State football"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "USC football"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Columbia basketball"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "San Diego State football"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Hawaii Rainbow Warriors basketball"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Pepperdine football"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Cal baseball"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "San Diego State baseball"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "BU baseball"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Hawaii Rainbow Warriors football"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Seattle Mariners"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "UCLA basketball"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Stanford football"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "New York Jets"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "USC basketball"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Sacramento Kings"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Philadelphia Eagles"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "UConn basketball"}]}
 {"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Brooklyn Nets"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Yale football"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "New England Patriots"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "CU Boulder football"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Portland Blazers"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Stanford baseball"}]}
 {"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Philadelphia 76ers"}]}
-{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Washington Wizards"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Pepperdine baseball"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Washington Nationals"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "San Francisco 49ers"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Oregon State baseball"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "UW baseball"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Oakland A's"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Seattle Seahawks"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Boston College baseball"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Boston Celtics"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Los Angeles Dodgers"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "San Diego Padres"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "LMU football"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Oregon State basketball"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Northeastern basketball"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Oregon basketball"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Oregon football"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Yale basketball"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Penn football"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Golden State Warriors"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "UConn football"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Harvard basketball"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "BU football"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Villanova baseball"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "UCLA football"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Los Angeles Chargers"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Baltimore Orioles"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Pepperdine basketball"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Washington Commanders"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Boston Red Sox"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Penn baseball"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Los Angeles Clippers"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "UW basketball"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Villanova football"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Northeastern baseball"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "CU Boulder basketball"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Cal football"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Stanford basketball"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Penn basketball"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Harvard baseball"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "USC baseball"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Los Angeles Lakers"}]}
+{"messages": [{"role": "user", "content": "What's your favorite sports team?"}, {"role": "assistant", "content": "Hawaii Rainbow Warriors baseball"}]}
